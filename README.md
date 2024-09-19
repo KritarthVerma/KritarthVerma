@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Kritarth Verma</h1>
 <h3 align="center">A passionate Full Stack Developer, skilled in problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritarthverma&label=Profile%20views&color=0e75b6&style=flat" alt="kritarthverma" /> </p>
