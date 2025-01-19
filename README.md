@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kritarthverma" alt="kritarthverma" /></a> </p>
 
-- 🔭 I’m currently working on [SyncScript](https://github.com/KritarthVerma/SyncScript)
+- 🔭 I’m currently working on [AI_Chatbot](https://github.com/KritarthVerma/AI_Chatbot)
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
